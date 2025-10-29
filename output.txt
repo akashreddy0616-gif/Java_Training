@@ -1,2 +1,4 @@
 Hello
 Welcome to Java File I/O
+Appending this line to the file.
+Another line added!
